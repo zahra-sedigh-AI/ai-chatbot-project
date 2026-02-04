@@ -25,15 +25,11 @@ It is designed as a lightweight and extensible prototype for AI-driven applicati
 ```bash
 pip install -r requirements.txt
 
-Set your API key as an environment variable or create a .env file based on .env.example:
+## Set your API key as an environment variable or create a .env file based on .env.example:
 export API_KEY=your_api_key_here
 
-Run the chatbot:
+## Run the chatbot:
 python chatbot.py
 
-Type your messages in the terminal and receive real-time AI responses. This project can be used as an educational AI assistant, a prototype for conversational AI systems, or a foundation for more advanced AI and data-driven applications.
+## Type your messages in the terminal and receive real-time AI responses. This project can be used as an educational AI assistant, a prototype for conversational AI systems, or a foundation for more advanced AI and data-driven applications.
 
-
-
-```bash
-pip install -r requirements.txt
