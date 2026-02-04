@@ -21,15 +21,23 @@ It is designed as a lightweight and extensible prototype for AI-driven applicati
 - LLM API (GPT-based)
 - Prompt engineering
 
-## Installation
+## Installation & Usage
+
+Install dependencies and run the chatbot in one sequence:
+
 ```bash
 pip install -r requirements.txt
-
-## Set your API key as an environment variable or create a .env file based on .env.example:
 export API_KEY=your_api_key_here
-
-## Run the chatbot:
 python chatbot.py
 
-## Type your messages in the terminal and receive real-time AI responses. This project can be used as an educational AI assistant, a prototype for conversational AI systems, or a foundation for more advanced AI and data-driven applications.
+Type your messages in the terminal and receive real-time AI responses.
 
+Use Cases
+
+Educational AI assistant
+
+Prototype for conversational AI systems
+
+Foundation for advanced AI and data-driven applications
+export API_KEY=your_api_key_here
+python chatbot.py
